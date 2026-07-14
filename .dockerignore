@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+tests/
+.git/
+.env
+.env.*
+!.env.example
+docker/docker-compose.yml
+*.log
+.DS_Store
